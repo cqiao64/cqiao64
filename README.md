@@ -12,7 +12,7 @@
 
 ## Skills
 
-- **Languages**: Python
+- **Languages**: Python, C++
 - **Libraries/Frameworks**: discord.py, Tkinter, requests, icalendar, google-auth, google-auth-httplib2, google-auth-oauthlib, google-api-python-client, pickle, tkcalendar
 - **APIs**: Google Tasks API
 - **Authorization**: OAuth 2.0
