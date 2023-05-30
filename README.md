@@ -27,7 +27,7 @@
 
 ## 🎓 Education
 
-* Bachelor's in Computer Science - University of Florida
+* Bachelor's in Computer Science - University of Florida 🐊
 
 ## 📫 How to reach me
 
