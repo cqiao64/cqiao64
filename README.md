@@ -2,14 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet)
 
-## 📊 My GitHub Stats
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=gotham" alt="YourUsername" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark" alt="YourUsername" />
-</p>
-
 ## Skills
 
 - **Languages**: Python, C++
